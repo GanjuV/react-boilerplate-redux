@@ -1,6 +1,6 @@
 # React-Boilerplate-redux
 A project to kick start the react development using redux.
-Used Googlemaps and react-sparklines with redux to create a basic user friendly application.
+Used `Googlemaps` and `react-sparklines` with redux to create a basic user friendly application.
 
 ### Getting Started
 
